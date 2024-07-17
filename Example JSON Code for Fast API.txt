@@ -1,0 +1,22 @@
+{
+    "customerID": "6464-UIAEA",
+    "gender": "Male",
+    "SeniorCitizen": 1,
+    "Partner": "Yes",
+    "Dependents": "Yes",
+    "tenure": 12,
+    "PhoneService": "Yes",
+    "MultipleLines": "No",
+    "InternetService": "DSL",
+    "OnlineSecurity": "No",
+    "OnlineBackup": "No",
+    "DeviceProtection": "No",
+    "TechSupport": "No",
+    "StreamingTV": "No",
+    "StreamingMovies": "No",
+    "Contract": "Month-to-month",
+    "PaperlessBilling": "Yes",
+    "PaymentMethod": "Electronic check",
+    "MonthlyCharges": 70.35,
+    "TotalCharges": 139.75
+}

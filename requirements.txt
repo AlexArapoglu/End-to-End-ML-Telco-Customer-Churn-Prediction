@@ -1,0 +1,11 @@
+catboost==1.2.5
+fastapi==0.111.1
+joblib==1.3.2
+matplotlib==3.8.2
+numpy==1.25.1
+pandas==2.0.3
+pyarrow==17.0.0
+scikit_learn==1.3.2
+shap==0.46.0
+streamlit==1.36.0
+uvicorn==0.30.1
